@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MauryaAnkurr
 - 👀 I’m interested in NLP/ML
-- 🌱 I’m currently learning Graph Deep learning
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate NLP task
 - 📫 How to reach me ankurr.maurya@gmail.com
 
